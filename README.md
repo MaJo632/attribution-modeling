@@ -28,16 +28,15 @@ Key Insights:
 
 ## Summary
 
-Implementation of common attribution models (Heuristic: First Touch, Last Touch, Linear, Position Decay, Time Decay and algorithmic: Markov) results in the following output:
+Implementation of common attribution models (Heuristic: First Touch, Last Touch, Linear, Position Decay, Time Decay and algorithmic: Markov) on the data with at least two touchpoints results in the following output:
 
-![Multitouch Attribution](images/marketing_attribution_output.png)
+![Multitouch Attribution](images/marketing_attribution_output_2+touchpoints.png)
 
-The bar chart illustrates how conversions are attributed to each channel across different attribution models. Notably, the distribution appears unusually even and the EDA also reveals an almost 50:50 split of conversions and non-conversions across channels. This is an uncommon pattern, as channels typically serve different roles and show varying conversion strengths along the customer journey.
+The bar chart illustrates how conversions are attributed to each channel across different attribution models. Notably, the distribution appears unusually even. This is an uncommon pattern, as channels typically serve different roles and show varying conversion strengths along the customer journey.
 
 ## Suggested Resources
 
 - [Marketing Attribution Models](https://pypi.org/project/marketing-attribution-models/)
-
 
 ## Setup
 
