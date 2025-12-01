@@ -5,4 +5,3 @@ matplotlib==3.10.1
 numpy==2.2.5
 marketing_attribution_models==1.0.10
 scikit-learn
-ChannelAttribution
